@@ -69,7 +69,7 @@ function morse(text) {
     return;
   }
 
-  // split text by 3 spaces to break them into an array of words
+  // split text by 3 spaces to break them into an array of words.
   let _morseArr = text.trim().split("   ");
 
   let _arrOfDecodedWords = _morseArr.map((item) => {

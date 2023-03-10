@@ -1,5 +1,5 @@
 function removeDuplicates(obj) {
-    let x = [];
+  let x = [];
   let diff = (a, b) => [...new Set([...a].filter((x) => !b.includes(x)))];
   return Object.entries(obj)
     .reverse()

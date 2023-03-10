@@ -1,6 +1,6 @@
 # Instruction
 
-[![Github Workflow](https://github.com/decadevs/mini-challenges-2/workflows/create-branch/badge.svg)](https://github.com/decadevs/mini-challenges-2/actions)
+
 
 - Fork this Repo.
 - Open the src folder
